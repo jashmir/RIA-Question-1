@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9D9YGlb/3t4YaC+e0eyQY0nz+w784rcyqOJFdYkEqq6omtRU91s2brSd46RTii25yGlGImc1ZCbl5dcbQsp+7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kjash\\Desktop\\RIA_Question1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kjash\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\kjash\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\kjash\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\kjash\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
