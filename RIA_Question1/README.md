@@ -5,4 +5,4 @@
   - CalculateCombinations - Which calculates all the possible combinations.
   - PrintCombination(List(int) combination) - Which prints all the combinations for a specific amount.
 
-![Alt text](image.png)  
+![Alt text](./assets/image.png)  
